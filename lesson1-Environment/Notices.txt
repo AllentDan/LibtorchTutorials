@@ -1,0 +1,4 @@
+Only Chinese version provided by now. English version is on the way...
+
+link1: https://allentdan.github.io/2020/12/16/pytorch%E9%83%A8%E7%BD%B2torchscript%E7%AF%87
+lnk2: https://allentdan.github.io/2021/01/21/QT%20Creator%20+%20Opencv4.x%20+%20Libtorch1.7%E9%85%8D%E7%BD%AE/#more

@@ -1,4 +1,4 @@
-# TeachLibtorch
+# LibtorchTutorials
 
 ## 前言
 本教程旨在教读者如何用c++写模型，训练模型，根据模型预测对象。为便于教学和使用，本文的c++模型均使用libtorch（或者pytorch c++ api）完成搭建和训练等。目前，国内各大平台似乎没有pytorch在c++上api的完整教学，也没有基于c++开发的完整的深度学习开源模型。可能原因很多：

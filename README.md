@@ -11,8 +11,8 @@ This is a code repository for libtorch tutorials, which contains lessons for uti
 - Qt creator or Visual studio
 
 # Table of contents
-[Environment setting](https://github.com/AllentDan/LibtorchTutorials/tree/master/lesson1-Environment)
-[Tensor operations](https://github.com/AllentDan/LibtorchTutorials/tree/master/lesson2-TensorOperations)
-[Basic models](https://github.com/AllentDan/LibtorchTutorials/tree/master/lesson3-BasicModels)
-[Dataset utilization](https://github.com/AllentDan/LibtorchTutorials/tree/master/lesson4-DatasetUtilization)
-[Traingin VGG model](https://github.com/AllentDan/LibtorchTutorials/tree/master/lesson5-TrainingVGG)
+- [Environment setting](https://github.com/AllentDan/LibtorchTutorials/tree/master/lesson1-Environment)
+- [Tensor operations](https://github.com/AllentDan/LibtorchTutorials/tree/master/lesson2-TensorOperations)
+- [Basic models](https://github.com/AllentDan/LibtorchTutorials/tree/master/lesson3-BasicModels)
+- [Dataset utilization](https://github.com/AllentDan/LibtorchTutorials/tree/master/lesson4-DatasetUtilization)
+- [Traingin VGG model](https://github.com/AllentDan/LibtorchTutorials/tree/master/lesson5-TrainingVGG)

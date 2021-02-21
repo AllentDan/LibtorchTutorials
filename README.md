@@ -13,7 +13,7 @@ This is a code repository for libtorch tutorials, which contains lessons for uti
 - [Tensor operations](https://github.com/AllentDan/LibtorchTutorials/tree/master/lesson2-TensorOperations)
 - [Basic models](https://github.com/AllentDan/LibtorchTutorials/tree/master/lesson3-BasicModels)
 - [Dataset utilization](https://github.com/AllentDan/LibtorchTutorials/tree/master/lesson4-DatasetUtilization)
-- [Traingin VGG model](https://github.com/AllentDan/LibtorchTutorials/tree/master/lesson5-TrainingVGG)
+- [Training VGG model](https://github.com/AllentDan/LibtorchTutorials/tree/master/lesson5-TrainingVGG)
 
 ## Todo
 - Semantic segmentation task. FPN for example

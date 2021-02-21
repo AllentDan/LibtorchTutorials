@@ -14,7 +14,7 @@ This is a code repository for libtorch tutorials, which contains lessons for uti
 - [Basic models](https://github.com/AllentDan/LibtorchTutorials/tree/master/lesson3-BasicModels)
 - [Dataset utilization](https://github.com/AllentDan/LibtorchTutorials/tree/master/lesson4-DatasetUtilization)
 - [Training VGG model](https://github.com/AllentDan/LibtorchTutorials/tree/master/lesson5-TrainingVGG)
+- [Training U-Net model](https://github.com/AllentDan/LibtorchTutorials/tree/master/lesson6-Segmentation)
 
 ## Todo
-- Semantic segmentation task. FPN for example
 - Objects detection task. YOLO5.

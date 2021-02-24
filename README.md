@@ -24,11 +24,11 @@
 
 ## 章节安排
 本教程分多个章节：
-- 第一章：开发环境搭建
-- 第二章：张量的常规操作
-- 第三章：简单模型搭建
-- 第四章：数据加载模块使用
-- 第五章：分类模型搭建，训练和预测
+- 第一章：[libtorch+Visual Studio](https://allentdan.github.io/2020/12/16/pytorch%E9%83%A8%E7%BD%B2torchscript%E7%AF%87)和[libtorch+QT](https://allentdan.github.io/2021/01/21/QT%20Creator%20+%20Opencv4.x%20+%20Libtorch1.7%E9%85%8D%E7%BD%AE/#more)开发环境搭建
+- 第二章：[张量的常规操作](https://allentdan.github.io/2021/01/16/libtorch%E6%95%99%E7%A8%8B%EF%BC%88%E4%BA%8C%EF%BC%89/)
+- 第三章：[简单MLP,CNN,LSTM模型搭建](https://allentdan.github.io/2021/01/16/libtorch%E6%95%99%E7%A8%8B%EF%BC%88%E4%B8%89%EF%BC%89/)
+- 第四章：[数据加载模块使用](https://allentdan.github.io/2021/01/18/libtorch%E6%95%99%E7%A8%8B%EF%BC%88%E5%9B%9B%EF%BC%89/)
+- 第五章：[分类模型搭建，训练和预测](https://allentdan.github.io/2021/01/18/libtorch%E6%95%99%E7%A8%8B%EF%BC%88%E4%BA%94%EF%BC%89/)
 - 第六章：[分割模型搭建，训练和预测](https://github.com/AllentDan/SegmentationCpp)
 - 第七章：目标检测模型搭建，训练和预测
 - 第八章：总结

@@ -29,6 +29,6 @@
 - 第三章：[简单MLP,CNN,LSTM模型搭建](https://allentdan.github.io/2021/01/16/libtorch%E6%95%99%E7%A8%8B%EF%BC%88%E4%B8%89%EF%BC%89/)
 - 第四章：[数据加载模块使用](https://allentdan.github.io/2021/01/18/libtorch%E6%95%99%E7%A8%8B%EF%BC%88%E5%9B%9B%EF%BC%89/)
 - 第五章：[分类模型搭建，训练和预测](https://allentdan.github.io/2021/01/18/libtorch%E6%95%99%E7%A8%8B%EF%BC%88%E4%BA%94%EF%BC%89/)
-- 第六章：[分割模型搭建，训练和预测](https://github.com/AllentDan/SegmentationCpp)
+- 第六章：[分割模型搭建，训练和预测](https://allentdan.github.io/2021/02/10/libtorch%E6%95%99%E7%A8%8B%EF%BC%88%E5%85%AD%EF%BC%89/)
 - 第七章：目标检测模型搭建，训练和预测
 - 第八章：总结

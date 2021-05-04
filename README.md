@@ -9,11 +9,8 @@ English | [中文](https://github.com/AllentDan/LibtorchTutorials/blob/main/READ
 
 
 ## Environment
-- Win10
-- Libtorch 1.7
-- Opencv 4.5
-- CUDA 10.2 && CUDNN
-- Qt creator or Visual studio
+- Libtorch 1.7+
+- Opencv 2.4+
 
 ## Table of contents
 - [Environment setting](https://github.com/AllentDan/LibtorchTutorials/tree/main/lesson1-Environment)

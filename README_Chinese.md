@@ -1,6 +1,11 @@
-# LibtorchTutorials
-[English version](https://github.com/AllentDan/LibtorchTutorials/tree/master)
+[English](https://github.com/AllentDan/LibtorchTutorials/blob/main/README.md) | 中文
 
+<div align="center">
+
+![logo](https://raw.githubusercontent.com/AllentDan/ImageBase/main/detection/LibtorchTutorials.png)  
+**一个libtorch教学的代码仓库，包含使用libtorh (or pytorch c++)的教程.**  
+
+</div>
 
 **如果有用，别忘了给我star**
 ## 环境

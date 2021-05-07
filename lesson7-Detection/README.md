@@ -535,7 +535,8 @@ The result analysis has the following two conclusions:
 
 Use the same preprocessing method of training and prediction to process the picture, and the result should be much better. The following is a picture, using coco pre-training weights for migration learning, only training yolo_head, after training the voc data set for one cycle.
 ![](https://raw.githubusercontent.com/AllentDan/ImageBase/main/detection/2007_005331_pred.jpg)
-Continue training, data enhancement, training all weights should improve the results even more.
+
+Continue training, data augmentation, training all weights should improve the results even more.
 
 ## Training
 There are more training codes, and the blog will not introduce it. You can directly refer to the source codes of this project and if it helps you, don't hesitate to star.

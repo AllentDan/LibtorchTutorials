@@ -522,8 +522,10 @@ model->to(torch::kCUDA);
 Predict(model, image, true, 0.1, 0.3);
 ```
 The picture used is as shown below
+
 ![](https://raw.githubusercontent.com/AllentDan/ImageBase/main/detection/2007_005331.jpg)
 It will be found that the forecast results are as follows:
+
 ![](https://raw.githubusercontent.com/AllentDan/ImageBase/main/detection/2007_005331_pred_coco.jpg)
 The result analysis has the following two conclusions:
 - The detection box is output, and the prediction function is likely to be correct;

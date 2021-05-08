@@ -522,16 +522,21 @@ model->to(torch::kCUDA);
 Predict(model, image, true, 0.1, 0.3);
 ```
 The picture used is as shown below
+
 ![](https://raw.githubusercontent.com/AllentDan/ImageBase/main/detection/2007_005331.jpg)
+
 It will be found that the forecast results are as follows:
+
 ![](https://raw.githubusercontent.com/AllentDan/ImageBase/main/detection/2007_005331_pred_coco.jpg)
+
 The result analysis has the following two conclusions:
 - The detection box is output, and the prediction function is likely to be correct;
 - There are some false detections. Increasing the confidence threshold may be improved, but the detection will be missed. This is caused by the inconsistency between the preprocessing strategy used in the training of the .pt file and the preprocessing strategy used in the code prediction of this article.
 
 Use the same preprocessing method of training and prediction to process the picture, and the result should be much better. The following is a picture, using coco pre-training weights for migration learning, only training yolo_head, after training the voc data set for one cycle.
 ![](https://raw.githubusercontent.com/AllentDan/ImageBase/main/detection/2007_005331_pred.jpg)
-Continue training, data enhancement, training all weights should improve the results even more.
+
+Continue training, data augmentation, training all weights should improve the results even more.
 
 ## Training
 There are more training codes, and the blog will not introduce it. You can directly refer to the source codes of this project and if it helps you, don't hesitate to star.

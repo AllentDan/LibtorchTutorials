@@ -38,7 +38,7 @@
 - 第四章：[数据加载模块使用](https://allentdan.github.io/2021/01/18/libtorch%E6%95%99%E7%A8%8B%EF%BC%88%E5%9B%9B%EF%BC%89/)
 - 第五章：[分类模型搭建，训练和预测](https://allentdan.github.io/2021/01/18/libtorch%E6%95%99%E7%A8%8B%EF%BC%88%E4%BA%94%EF%BC%89/)
 - 第六章：[分割模型搭建，训练和预测](https://allentdan.github.io/2021/02/10/libtorch%E6%95%99%E7%A8%8B%EF%BC%88%E5%85%AD%EF%BC%89/)
-- 第七章：目标检测模型搭建，训练和预测
-- 第八章：总结
+- 第七章：[目标检测模型搭建，训练和预测](https://allentdan.github.io/2021/05/03/libtorch%E6%95%99%E7%A8%8B%EF%BC%88%E4%B8%83%EF%BC%89/)
+- 第八章：[总结](https://allentdan.github.io/2021/05/03/libtorch%E6%95%99%E7%A8%8B%EF%BC%88%E5%85%AB%EF%BC%89/)
 
 挂下自己微信吧，may88happy，最近很多小伙伴有问题。建了个群，加了拉群里直接问，我看到一般都会回复的

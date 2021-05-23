@@ -21,3 +21,9 @@ English | [中文](https://github.com/AllentDan/LibtorchTutorials/blob/main/READ
 - [Training U-Net model](https://github.com/AllentDan/LibtorchTutorials/tree/main/lesson6-Segmentation)
 - [Training yolo4 tiny model](https://github.com/AllentDan/LibtorchTutorials/tree/main/lesson7-Detection)
 - [Conclusion](https://github.com/AllentDan/LibtorchTutorials/tree/main/lesson8-Conclusion)
+
+## Related repository
+Based on libtorch, I released following repositories:
+- [LibtorchTutorials](https://github.com/AllentDan/LibtorchTutorials)
+- [LibtorchSegmentation](https://github.com/AllentDan/LibtorchSegmentation)
+- [LibtorchDetection](https://github.com/AllentDan/LibtorchDetection)

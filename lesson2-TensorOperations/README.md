@@ -100,8 +100,8 @@ Concate and stack
 ```cpp
 auto b = torch::ones({3,4});
 auto c = torch::zeros({3,4});
-auto cat = torch::cat({b,c},1);//1表示第1维，输出张量[3,8]
-auto stack = torch::stack({b,c},1);//1表示第1维，输出[3,2,4]
+auto cat = torch::cat({b,c},1);//1 refers to 1th dim, output a tensor of shape [3,8]
+auto stack = torch::stack({b,c},1);//1refers to 1th dim, output a tensor of shape [3,2,4]
 std::cout<<b<<c<<cat<<stack;
 ```
 At this point, readers will find that it is much easier to use libtorch if you master the changes from [] in pytorch to {} in libtorch. Most operations can be directly migrated.

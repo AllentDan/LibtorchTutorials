@@ -41,4 +41,10 @@
 - 第七章：[目标检测模型搭建，训练和预测](https://allentdan.github.io/2021/05/03/libtorch%E6%95%99%E7%A8%8B%EF%BC%88%E4%B8%83%EF%BC%89/)
 - 第八章：[总结](https://allentdan.github.io/2021/05/03/libtorch%E6%95%99%E7%A8%8B%EF%BC%88%E5%85%AB%EF%BC%89/)
 
+## 相关项目
+基于libtorch，我释放了如下开源项目:
+- [LibtorchTutorials](https://github.com/AllentDan/LibtorchTutorials)
+- [LibtorchSegmentation](https://github.com/AllentDan/LibtorchSegmentation)
+- [LibtorchDetection](https://github.com/AllentDan/LibtorchDetection)
+
 挂下自己微信吧，may88happy，最近很多小伙伴有问题。建了个群，加了拉群里直接问，我看到一般都会回复的

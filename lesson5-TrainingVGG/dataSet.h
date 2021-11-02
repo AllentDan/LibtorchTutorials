@@ -32,7 +32,7 @@ public:
     // Return the length of data
     torch::optional<size_t> size() const override {
         return image_paths.size();
-    };
+    }
 private:
     std::vector<std::string> image_paths;
     std::vector<int> labels;
